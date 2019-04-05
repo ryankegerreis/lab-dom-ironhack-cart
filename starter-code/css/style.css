@@ -39,3 +39,14 @@ input {
 .quantity {
   margin: 0 5px;
 }
+
+/* =================================== */
+
+*{
+  box-sizing: border-box;
+}
+
+.product-line{
+  display: inline-flex;
+  padding:10px;
+}
